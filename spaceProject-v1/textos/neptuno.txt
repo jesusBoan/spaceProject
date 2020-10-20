@@ -1,0 +1,15 @@
+Neptuno:
+
+Es el tercer planeta mas grande del sistema. Es un planeta helado.
+Tiene 14 satelites naturales.
+
+Diametro:       49572 km                    Masa:                         1.024 x 10^26 kg         Densidad:     1640 kg/m^3
+
+Gravedad:      11.15 m/s^2                Temp (superficie):     53 K
+
+
+Composicion atmosferica:
+    
+Hidrogeno:    84%                     Helio:    12%                          Metano:        2%
+            
+Amoniaco:     0.01%                  Etano:    0.00025%                 Acetileno:    0.00001%

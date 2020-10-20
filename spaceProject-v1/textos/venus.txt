@@ -1,0 +1,15 @@
+Venus:
+
+Planeta rocoso sin satelites naturales.
+
+Diametro:       12103.6 km               Masa:                         4.869 x 10^24 kg      Densidad:        5240 kg/m^3
+
+Gravedad:      8.87 m/s^2                Temp (superficie):     737 K
+
+Composicion atmosferica:
+    
+Dioxido de carbono:    96%          Nitrogeno:           3%                      Dioxido de azufre:            0.015%
+            
+Argon:    0.007%                           Vapor de agua:    0.002%               Monoxido de carbono:    0.0017%                 
+
+Helio:     0.0012%                          Neon:                   0.0007%

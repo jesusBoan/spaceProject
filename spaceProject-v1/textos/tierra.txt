@@ -1,0 +1,16 @@
+La Tierra:
+
+El mas grande de los cuatro planetas rocosos de este sistema y nuestro lugar de procedencia. Actualmente
+inhabitable para la raza humana.
+
+Diametro:       12756.2 km                Masa:                         5.97 x 10^24 kg      Densidad:        5515 kg/m^3
+
+Gravedad:      9.78 m/s^2                Temp (superficie):     287.2 K
+
+Composicion atmosferica:
+    
+Nitrogeno:            77.08%                  Oxigeno:    20.95%                       Argon:    0.93%   
+        
+Vapor de agua:    1%                         CO2:          1200 ppmv
+
+Trazas de:  Neon,  Hidrogeno,  Helio,  Metano,  Kripton,  Oxido nitroso,  Xenon,  CO,  Ozono,  CFC

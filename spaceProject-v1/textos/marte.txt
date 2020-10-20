@@ -1,0 +1,16 @@
+Marte:
+
+El cuarto planeta rocoso del sistema, aun hay restos de la segunda civilizacion humana.
+Tiene dos satelites naturales.
+
+Diametro:       6794.4 km                   Masa:                         6.42 x 10^23 kg      Densidad:        3933.5 kg/m^3
+
+Gravedad:      3.711 m/s^2                Temp (superficie):     227 K
+
+Composicion atmosferica:
+    
+CO2:    95.32%               Nitrogeno:            2.7%               Argon:                1.6%           Oxigeno:    0.13% 
+            
+CO:      0.08%                 Vapor de agua:    0.021%           Oxido nitroso:    0.01%
+
+Trazas de:  Neon,  Agua pesada,  Kripton,  Formaldehido,  Xenon,  Ozono,  Peroxido de hidrogeno,  Metano

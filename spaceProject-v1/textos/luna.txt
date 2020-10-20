@@ -1,0 +1,15 @@
+La Luna:
+
+Es el unico satelite natural de la Tierra.
+
+Diametro:       3476 km                    Masa:              7.349 x 10^22 kg        Densidad:             3340 kg/m^3
+
+Gravedad:      1.62 m/s^2                Temp (dia):     380 K                          Temp (noche):     120 K
+
+
+Composicion atmosferica:
+    
+Neon:    25%          Helio:    25%               Hidrogeno:    23%           Argon:    20% 
+            
+
+Trazas de:  Metano,  Amoniaco,  Dioxido de carbono.

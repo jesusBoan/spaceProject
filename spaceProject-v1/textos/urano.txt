@@ -1,0 +1,16 @@
+Urano:
+
+Es un planeta gaseoso helado. Tiene 27 satelites naturales.
+
+Diametro:       51118 km                  Masa:                         8.686 x 10^25 kg      Densidad:        1274 kg/m^3
+
+Gravedad:      8.69 m/s^2                Temp (superficie):     68 K
+
+
+Composicion atmosferica:
+    
+Hidrogeno:    83%                Helio:    15%                        Metano:      1.99%           Vapor de agua:    0.1% 
+            
+Amoniaco:    0.01%              Etano:    0.00025%              Acetileno:    0.00001%
+
+Trazas de:    Monoxido de carbono,  Sulfuro de hidrogeno

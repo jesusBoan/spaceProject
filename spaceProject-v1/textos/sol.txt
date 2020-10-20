@@ -1,0 +1,16 @@
+El Sol:
+
+Es una estrella de tipo-G de la secuencia principal y clase de luminosidad V que se encuentra en el centro
+del Sistema Solar y constituye la mayor fuente de radiacion electromagnetica de este sistema planetario.
+
+Diametro:       1391016 km       Masa:                         1.9891 x 10^30 kg      Densidad:        1411 kg/m^3
+
+Gravedad:      27.9 g                Temp (superficie):     5778 K                        Luminosidad:   3.8 x 10^26 W
+
+Composicion atmosferica:
+    
+Hidrogeno:    74.36%                 Helio:           24.85%               Oxigeno:      0.78%           Carbono:    0.30% 
+            
+Hierro:            0.16%                  Neon:           0.12%                 Nitrogeno:    0.09%
+
+Silicio:            0.07%                  Magnesio:    0.06%                 Azufre:          0.05%

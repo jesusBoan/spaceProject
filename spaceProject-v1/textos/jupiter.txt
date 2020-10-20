@@ -1,0 +1,16 @@
+Jupiter:
+
+Es el planeta mas grande del sistema y el primero de los gaseosos. No parece tener una superficie definida.
+Tiene cuatro satelites naturales principales.
+
+Diametro:       142984 km                  Masa:                         1.899 x 10^27 kg      Densidad:        1336 kg/m^3
+
+Gravedad:      24.79 m/s^2                Temp (superficie):     152 K
+
+Composicion atmosferica:
+    
+Hidrogeno:    81%                    Helio:    18%                    Metano:    0.1%                Vapor de agua:    0.1% 
+            
+Amoniaco:     0.02%                 Etano:    0.0002%             Fosfina:    0.0001%
+
+Sulfuro de hidrogeno:    0.00007%

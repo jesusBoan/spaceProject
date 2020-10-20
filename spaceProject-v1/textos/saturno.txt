@@ -1,0 +1,16 @@
+Saturno:
+
+Es el segundo planeta mas grande del sistema y el segundo de los gaseosos. Tiene un sistema de anillos
+formado por millones de particulas. Tiene 82 satelites con orbitas definidas.
+
+Diametro:       120536 km                  Masa:                         5.688 x 10^26 kg      Densidad:        690 kg/m^3
+
+Gravedad:      10.44 m/s^2                Temp (superficie):     143 K
+
+
+Composicion atmosferica:
+    
+Hidrogeno:    93%                   Helio:    5%                         Metano:    0.2%           Vapor de agua:    0.1% 
+            
+Amoniaco:    0.01%                 Etano:    0.0005%               Fosfina:    0.0001%
+

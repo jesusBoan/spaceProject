@@ -1,0 +1,16 @@
+CONTROLES:
+
+              -MOVER NAVE:                              W                                -ACELERAR:           M
+                                                                     A S D                             -FRENAR:                N
+                                                                                                           -DISPARAR:            Q
+
+
+              -CAMARAS:
+
+                        FRONTAL:    1a Persona:    1                                  TRASERA:    1a Persona:    3
+                                              3a persona:    2                                                        3a persona:    4
+
+                        
+                                              
+
+

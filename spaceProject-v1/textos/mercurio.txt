@@ -1,0 +1,15 @@
+Mercurio:
+
+Uno de los cuatro planetas rocosos de este sistema planetario y el mas cercano a su estrella.
+
+Diametro:       4879 km                  Masa:                         3.302 x 10^23 kg      Densidad:        5430 kg/m^3
+
+Gravedad:      3.7 m/s^2                Temp (superficie):     440 K  
+                      
+Composicion atmosferica:
+    
+Potasio:    31.7%             Sodio:    24.9%               Oxigeno (atomico):    9.5%           Argon:    7.0% 
+            
+Helio:    5.9%                   Oxigeno (molecular):    5.6%                 Nitrogeno:    5.2%
+
+Dioxido de carbono:    3.6%                   Agua:    3.4%                  Hidrogeno:    3.2%
